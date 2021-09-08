@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: IBMPlexSans-Bold
+font link: https://fonts.google.com/specimen/IBM+Plex+Sans
+font author: Mike Abbink
+font author site: https://www.mikeabbink.com/
+Slogan Font: IBMPlexSans-Bold
+
+icon designer: André Luiz Gollo
+icon designer link: /andreluizgollo
+        
+{"bg":"#E7F3FC","icon-gradient-0":"#007DE8","icon-gradient-1":"#A1C3DB","font":"#253D52","slogan":"#395166"}
+      
