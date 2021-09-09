@@ -49,7 +49,7 @@ blockquote {
   font-size: 1.1em;
 }
 
-.container {
+#respri {
   position: relative;
   display: block;
   margin: 60px auto;
@@ -65,11 +65,11 @@ blockquote {
   box-sizing: border-box;
 }
 
-.container .title {
+#respri .title {
   padding: 0 10%;
 }
 
-.container .body {
+#respri .body {
   padding: 0 10%;
   margin-top: 20px;
   font-size: 13px;
@@ -86,7 +86,7 @@ blockquote {
     background: #fff;
   }
 
-  .container {
+  #respri {
     margin: 0;
     border: 0;
     border-radius: 0;
@@ -99,7 +99,7 @@ blockquote {
     background: #fff;
   }
 
-  .container {
+  #respri {
     padding: 35px 5%;
     margin: 0;
     border: 0;
@@ -107,7 +107,7 @@ blockquote {
     box-shadow: none;
   }
 
-  .container .body {
+  #respri .body {
     margin-top: 50px;
   }
 }
